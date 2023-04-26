@@ -1,0 +1,305 @@
+(dp0
+I0
+S' '
+p1
+sI1
+S'hi'
+p2
+sI2
+S'what'
+p3
+sI3
+S'meat'
+p4
+sI4
+S'bi bim rice'
+p5
+sI5
+S'glad'
+p6
+sI6
+S'hobby'
+p7
+sI7
+S'me'
+p8
+sI8
+S'movie'
+p9
+sI9
+S'face'
+p10
+sI10
+S'see'
+p11
+sI11
+S'name'
+p12
+sI12
+S'read'
+p13
+sI13
+S'thank'
+p14
+sI14
+S'equal'
+p15
+sI15
+S'sorry'
+p16
+sI16
+S'eat'
+p17
+sI17
+S'fine'
+p18
+sI18
+S'do effort'
+p19
+sI19
+S'next'
+p20
+sI20
+S'age'
+p21
+sI21
+S'again'
+p22
+sI22
+S'how many'
+p23
+sI23
+S'day'
+p24
+sI24
+S'good, nice'
+p25
+sI25
+S'when'
+p26
+sI26
+S'we'
+p27
+sI27
+S'subway'
+p28
+sI28
+S'be friendly'
+p29
+sI29
+S'bus'
+p30
+sI30
+S'ride'
+p31
+sI31
+S'cell phone'
+p32
+sI32
+S'where'
+p33
+sI33
+S'number'
+p34
+sI34
+S'location'
+p35
+sI35
+S'guide'
+p36
+sI36
+S'responsibility'
+p37
+sI37
+S'who'
+p38
+sI38
+S'arrive'
+p39
+sI39
+S'family'
+p40
+sI40
+S'time'
+p41
+sI41
+S'introduction'
+p42
+sI42
+S'recieve'
+p43
+sI43
+S'please?'
+p44
+sI44
+S'walk'
+p45
+sI45
+S'parents'
+p46
+sI46
+S'10 minutes'
+p47
+sI47
+S'sister'
+p48
+sI48
+S'study'
+p49
+sI49
+S'human'
+p50
+sI50
+S'now'
+p51
+sI51
+S'special'
+p52
+sI52
+S'yesterday'
+p53
+sI53
+S'education'
+p54
+sI54
+S'test'
+p55
+sI55
+S'end'
+p56
+sI56
+S'you'
+p57
+sI57
+S'worried_about'
+p58
+sI58
+S'marry'
+p59
+sI59
+S'effort'
+p60
+sI60
+S'no'
+p61
+sI61
+S'sweat'
+p62
+sI62
+S'yet'
+p63
+sI63
+S'finally'
+p64
+sI64
+S'born'
+p65
+sI65
+S'success'
+p66
+sI66
+S'favor'
+p67
+sI67
+S'Seoul'
+p68
+sI68
+S'dinner'
+p69
+sI69
+S'experience'
+p70
+sI70
+S'invite'
+p71
+sI71
+S'food'
+p72
+sI72
+S'want'
+p73
+sI73
+S'visit'
+p74
+sI74
+S'one hour'
+p75
+sI75
+S'far'
+p76
+sI76
+S'good'
+p77
+sI77
+S'care'
+p78
+sI78
+S' '
+p79
+sI79
+S' '
+p80
+sI80
+S' '
+p81
+sI81
+S' '
+p82
+sI82
+S' '
+p83
+sI83
+S' '
+p84
+sI84
+S' '
+p85
+sI85
+S' '
+p86
+sI86
+S' '
+p87
+sI87
+S' '
+p88
+sI88
+S' '
+p89
+sI89
+S' '
+p90
+sI90
+S' '
+p91
+sI91
+S' '
+p92
+sI92
+S' '
+p93
+sI93
+S' '
+p94
+sI94
+S' '
+p95
+sI95
+S' '
+p96
+sI96
+S' '
+p97
+sI97
+S' '
+p98
+sI98
+S' '
+p99
+sI99
+S' '
+p100
+sI100
+S' '
+p101
+s.
